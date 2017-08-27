@@ -47,7 +47,7 @@ $ aem-package-with-dam -h http://admin:admin@localhost:4502 -n myPackageName -p 
 
 ## Notes
 Tested in versions:
-- AEM: 6.2
+- AEM: 6.1
 - Node.js: 6.11.2
 
 ## License
