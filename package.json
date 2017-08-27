@@ -1,15 +1,21 @@
 {
     "name": "aem-package-with-dam",
-    "version": "1.0.0",
-    "description": "Is a tool to connect with AEM - Adobe Experience Manager] to generate a content package with all DAM dependencies for one or more paths",
+    "version": "1.0.1",
+    "description": "Tool to connect with AEM - Adobe Experience Manager] to generate a content package with all DAM dependencies for one or more paths",
     "main": "index.js",
+    "keywords": [
+        "AEM",
+        "CQ",
+        "DAM",
+        "Packages"
+    ],
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Vinicius Diogo <viniciusdiogo@gmail.com>",
     "license": "MIT",
     "bin": {
-        "aem-package-with-dam": "bin/aem-package-with-dam.js"
+        "aem-package-with-dam": "bin/aem-package-with-dam"
     },
     "dependencies": {
         "colors": "^1.1.2",
