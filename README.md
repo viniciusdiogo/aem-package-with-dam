@@ -1,6 +1,6 @@
 # AEM Package With DAM
 
-[![NPM version](https://badge.fury.io/js/simple-slider.svg)](https://npmjs.org/package/aem-package-with-dam)
+[![NPM version](https://badge.fury.io/js/aem-package-with-dam.svg)](https://npmjs.org/package/aem-package-with-dam)
 [![license](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/viniciusdiogo/aem-package-with-dam/master/LICENSE)
 
 ## About
