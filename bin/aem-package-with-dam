@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+const aemPackageWithDam = require('../index');
+aemPackageWithDam.main();

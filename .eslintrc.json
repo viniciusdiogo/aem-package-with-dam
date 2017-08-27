@@ -1,0 +1,32 @@
+{
+    "extends": ["eslint:recommended", "google"],
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es6": true,
+        "node": true
+    },
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "rules": {
+        /*  "no-const-assign": "warn",
+          "no-this-before-super": "warn",
+          "no-undef": "warn",
+          "no-unreachable": "warn",
+          "no-unused-vars": "warn",
+          "no-var": "warn",
+          "constructor-super": "warn",
+          "valid-typeof": "warn",
+          */
+        "comma-dangle": ["error", "never"],
+        "padded-blocks": 0,
+        "max-len": 0,
+        "no-console": 0,
+        "eol-last": 0
+    }
+}
